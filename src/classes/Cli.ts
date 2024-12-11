@@ -73,6 +73,9 @@ class Cli {
         if (answers.vehicleType === 'Truck') {
           this.createTruck();
         }
+        if (answers.vehicleType === 'Motorbike') {
+          this.createMotorbike();
+        }
 });
   }
 
