@@ -19,7 +19,7 @@ npm i
 
 ## Links
 repo: https://github.com/Eddygitcode/Car-truck-motorbike-interactive-tool
-video: 
+video: https://www.loom.com/share/e0e2f6fddd5b4126a6907d731268b32f
 
 ## Questions
 If you have any questions about the project, I can be contacted at the following:
